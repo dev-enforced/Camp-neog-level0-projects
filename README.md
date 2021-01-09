@@ -8,7 +8,7 @@ Queries related to developing the projects and announcements related to this boo
 
 Projects list with links:
 
-1) TMKOC TRIVIA : [Link]{https://repl.it/@devenforced/TMKOC-Trivia?embed=true&output=true#index.js}
-2) How well do you know Dev-Enforced trivia : [Link]{https://repl.it/@devenforced/How-Well-do-you-know-Dev-Enforced?embed=true&output=true#index.js}
+1) TMKOC TRIVIA : [Link](https://repl.it/@devenforced/TMKOC-Trivia?embed=true&output=true#index.js)
+2) How well do you know Dev-Enforced trivia : [Link](https://repl.it/@devenforced/How-Well-do-you-know-Dev-Enforced?embed=true&output=true#index.js)
 Other channels of communication and links will be added here soon
 ## Thanks for visiting the repo.
